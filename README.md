@@ -36,6 +36,10 @@
 <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" />
 </a>
 
+<a href="https://leetcode.com/aman_0033/" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/leetcode" alt="leetcode" height="40" width="40" />
+</a>
+
 <a href="https://www.hackerrank.com/profile/aman_0033" target="blank">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="40" width="40" />
 </a>
@@ -79,13 +83,24 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aman95533&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+<table>
+<tr>
+<td>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aman95533&show_icons=true&theme=tokyonight&hide_border=true"/>
+</td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman95533&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+<td>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aman95533&layout=compact&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
 
-</p>
+</div>
+<br/>
+
+---
 
 # 🔥 GitHub Streak
 
@@ -95,19 +110,16 @@
 
 ---
 
+# 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/aman_0033?theme=dark&font=Nunito&ext=contest" />
+</p>
+
 # 🚀 Featured Projects
 
 ## 🔹 Student Management System
 💡 Java + MySQL based CRUD application for managing student records.
-
-## 🔹 Sorting Visualizer
-📊 Visualization of sorting algorithms like Quick Sort, Merge Sort & Heap Sort.
-
-## 🔹 Portfolio Website
-🌐 Personal responsive portfolio website using HTML, CSS & JavaScript.
-
-## 🔹 DSA Java Solutions
-🧠 Collection of DSA problems solved using Java.
 
 ---
 
